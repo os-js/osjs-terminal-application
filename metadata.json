@@ -1,0 +1,16 @@
+{
+  "type": "application",
+  "name": "Terminal",
+  "category": null,
+  "server": "server.js",
+  "title": {
+    "en_EN": "Terminal"
+  },
+  "description": {
+    "en_EN": "Terminal"
+  },
+  "files": [
+    "main.js",
+    "main.css"
+  ]
+}
