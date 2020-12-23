@@ -5,6 +5,8 @@ import {Terminal} from 'xterm';
 import * as fit from 'xterm/lib/addons/fit/fit';
 import * as argv from 'argv-parse';
 import * as commands from './commands.js';
+import './index.scss'
+import './xterm.scss'
 
 Terminal.applyAddon(fit);
 
